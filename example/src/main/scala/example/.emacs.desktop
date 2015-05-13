@@ -1,0 +1,44 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri Jan  9 17:25:43 2015
+;; Desktop file format version 206
+;; Emacs version 24.3.1
+
+;; Global section:
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq extended-command-history '("help" "ensime" "list-packages" "describe-minor-mode" "package-install" "package-refresh-contents" "describe-mode" "ensime-typecheck-current-file" "ensime-connect" "haskell-compile" "haskell-interactive-mode-clear" "haskell-interactive-bring" "haskell-process-load-file" "ad-Orig-cd"))
+(setq face-name-history nil)
+(setq file-name-history '("~/Dropbox/scala/fpp-scala-sep13/.ensime" "~/Dropbox/scala/fpp-scala-sep13/example/src/main/scala/example/Lists.scala" "~/Dropbox/scala/ensime-test/.ensime" "~/Dropbox/scala/ensime-test/src/main/Main.scala" "/Users/vitaly.peressada/Dropbox/scala/ensime-test/.ensime" "/Users/vitaly.peressada/Dropbox/scala/ensime-test/build.sbt" "~/.emacs.d/elpa/ensime-20141218.1132/ensime-autoloads.el" "~/.emacs.d/elpa/sbt-mode-20141110.1116/sbt-mode-autoloads.el" "~/.emacs.d/elpa/company-20141216.409/company-autoloads.el" "~/.emacs.d/elpa/yasnippet-20141117.327/yasnippet-autoloads.el" "~/Dropbox/haskell/road-logic-maths/barclays.hs" "/Users/vitaly.peressada/Dropbox/haskell/tpclsspd.hs" "~/Dropbox/haskell/tpclsspd.hs" "~/Dropbox/haskell/test.hs" "~/.emacs.d/elpa/evil-easymotion-20141205.1244/evil-easymotion-autoloads.el" "~/.emacs.d/elpa/scala-mode2-20141105.514/scala-mode2-autoloads.el" "/usr/local/Cellar/emacs/24.3/share/emacs/24.3/etc/ORDERS" "~/.emacs.d/elpa/noflet-20141102.654/noflet-autoloads.el" "~/.emacs.d/elpa/evil-escape-20141202.1946/evil-escape-autoloads.el" "~/.emacs.d/elpa/key-chord-20140929.2246/key-chord-autoloads.el" "~/.emacs.d/elpa/evil-exchange-20141127.2243/evil-exchange-autoloads.el" "~/.emacs.d/elpa/evil-god-state-20141116.1855/evil-god-state-autoloads.el" "~/.emacs.d/elpa/god-mode-20140811.1125/god-mode-autoloads.el" "~/.emacs.d/elpa/evil-indent-textobject-20130831.1519/evil-indent-textobject-autoloads.el" "~/.emacs.d/elpa/evil-jumper-20141120.614/evil-jumper-autoloads.el" "~/.emacs.d/elpa/evil-leader-20140606.543/evil-leader-autoloads.el" "~/.emacs.d/elpa/evil-lisp-state-20141117.1821/evil-lisp-state-autoloads.el" "~/.emacs.d/elpa/smartparens-20141207.1220/smartparens-autoloads.el" "~/.emacs.d/elpa/evil-matchit-20141121.530/evil-matchit-autoloads.el" "~/.emacs.d/elpa/evil-nerd-commenter-20141207.1512/evil-nerd-commenter-autoloads.el" "~/.emacs.d/elpa/evil-numbers-20140606.551/evil-numbers-autoloads.el" "~/.emacs.d/elpa/evil-org-20141002.253/evil-org-autoloads.el" "~/.emacs.d/elpa/evil-paredit-20141006.101/evil-paredit-autoloads.el" "~/.emacs.d/elpa/evil-search-highlight-persist-20141117.17/evil-search-highlight-persist-autoloads.el" "~/.emacs.d/elpa/highlight-20140922.1850/highlight-autoloads.el" "~/.emacs.d/elpa/evil-space-20141203.121/evil-space-autoloads.el" "~/.emacs.d/elpa/evil-surround-20140616.1127/evil-surround-autoloads.el" "~/.emacs.d/elpa/evil-tabs-20140821.1719/evil-tabs-autoloads.el" "~/.emacs.d/elpa/elscreen-20140421.414/elscreen-autoloads.el" "~/.emacs.d/elpa/evil-terminal-cursor-changer-20140423.1151/evil-terminal-cursor-changer-autoloads.el" "~/.emacs.d/elpa/evil-visualstar-20130925.1114/evil-visualstar-autoloads.el" "~/.emacs.d/elpa/evil-args-20140329.1429/evil-args-autoloads.el" "~/.emacs.d/elpa/evil-20141208.623/evil-autoloads.el" "~/.emacs.d/elpa/goto-chg-20131228.1459/goto-chg-autoloads.el" "~/.emacs.d/elpa/flycheck-hdevtools-20140829.853/flycheck-hdevtools-autoloads.el" "~/.emacs.d/elpa/flycheck-ledger-20140605.1146/flycheck-ledger-autoloads.el" "~/.emacs.d/custom.el"))
+(setq grep-find-history nil)
+(setq grep-history nil)
+(setq ido-buffer-history '("*scratch*" " *undo-tree*" "*ensime-sbt*<fpp-scala-sep13>" "*ensime-inferior-scala*" "Lists.scala" "*ensime-inferior-scala*" "*ensime-sbt*<fpp-scala-sep13>" " *undo-tree*" "barclays.hs" "build.sbt" "*haskell*" "evil-easymotion-autoloads.el" "*Packages*" " *http melpa.milkbox.net:80*" "flycheck-hdevtools-autoloads.el" "*scratch*" "*Messages*" "flycheck-ledger-autoloads.el"))
+(setq ido-last-directory-list '(("/Users/vitaly.peressada/Dropbox/scala/" . "ensime-test/") ("/Users/vitaly.peressada/Dropbox/" . "haskell/")))
+(setq ido-work-directory-list '("/Users/vitaly.peressada/Dropbox/scala/ensime-test/" "/Users/vitaly.peressada/Dropbox/haskell/"))
+(setq ido-work-file-list '(".ensime" "build.sbt" "tpclsspd.hs"))
+(setq minibuffer-history '("ensime-mode" "ensime" "9999" "127.0.0.1"))
+(setq query-replace-history nil)
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq search-ring '("scala-" "evil"))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/vitaly.peressada/Dropbox/scala/fpp-scala-sep13/example/src/main/scala/example/Lists.scala"
+  "Lists.scala"
+  'scala-mode
+  '(anzu-mode auto-complete-mode global-auto-revert-mode whitespace-cleanup-mode undo-tree-mode whole-line-or-region-mode hes-mode guide-key-mode auto-compile-on-load-mode ensime-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode highlight-symbol-mode)
+  48
+  '(1772 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-unix)))
+
